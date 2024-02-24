@@ -18,21 +18,20 @@ Nesta análise, foram explorados diversos aspectos das partidas de League of Leg
 
 ## Ferramentas Utilizadas
 
-A análise foi realizada principalmente utilizando a linguagem de programação Python, com o auxílio das bibliotecas Pandas, NumPy e Seaborn para manipulação e visualização de dados. Além disso, foram utilizadas técnicas de pré-processamento de dados e visualização gráfica para facilitar a interpretação dos resultados.
+A análise foi realizada principalmente utilizando a linguagem de programação Python, com o auxílio das bibliotecas Pandas, NumPy, Seaborn e Matplotlib para manipulação e visualização de dados. Além disso, foram utilizadas técnicas de pré-processamento de dados e visualização gráfica para facilitar a interpretação dos resultados.
 
 ## Arquivos no Repositório
 
-- **analysis.ipynb**: Jupyter Notebook contendo o código Python e a análise completa dos dados.
-- **league_of_legends_data.csv**: Conjunto de dados utilizado na análise.
+- **cblol_data_analysis.jpynb**: Jupyter Notebook contendo o código Python e a análise completa dos dados.
+- **2024_LoL_esports_match_data**[link para o Google Drive](https://drive.google.com/drive/u/0/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH): Conjunto de dados utilizado na análise.
 - **README.md**: Este arquivo, fornecendo uma visão geral da análise e instruções para reprodução.
 
 ## Como Reproduzir
 
 Para reproduzir esta análise em sua própria máquina, você pode seguir estas etapas:
 
-1. Clone este repositório para o seu ambiente local.
-2. Instale as dependências necessárias listadas no arquivo `requirements.txt`.
-3. Execute o Jupyter Notebook `analysis.ipynb` para ver a análise completa e executar o código.
+1. Clone este repositório para o seu ambiente local.   
+2. Execute o Jupyter Notebook `cblol_data_analysis.j` para ver a análise completa e executar o código.
 
 Sinta-se à vontade para explorar, modificar e expandir esta análise conforme necessário!
 
