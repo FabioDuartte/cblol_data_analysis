@@ -23,7 +23,7 @@ A análise foi realizada principalmente utilizando a linguagem de programação 
 ## Arquivos no Repositório
 
 - **cblol_data_analysis.jpynb**: Jupyter Notebook contendo o código Python e a análise completa dos dados.
-- **2024_LoL_esports_match_data**[link para o Google Drive](https://drive.google.com/drive/u/0/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH): Conjunto de dados utilizado na análise.
+- [2024_LoL_esports_match_data](https://drive.google.com/drive/u/0/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH): Conjunto de dados utilizado na análise.
 - **README.md**: Este arquivo, fornecendo uma visão geral da análise e instruções para reprodução.
 
 ## Como Reproduzir
