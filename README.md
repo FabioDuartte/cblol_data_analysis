@@ -1,4 +1,4 @@
-# Análise de Dados do League of Legends
+# Análise de Dados do primeiro split de 2024 do Campeonato Brasileiro de League of Legends (CBLOL)
 
 Este repositório contém uma análise de dados realizada no conjunto de dados do League of Legends (LoL). O LoL é um popular jogo online de estratégia em tempo real, desenvolvido e publicado pela Riot Games.
 
